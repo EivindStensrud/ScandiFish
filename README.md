@@ -8,7 +8,7 @@ The database is based on the MiFish-U primers, which amplify a hypervariable reg
 For more information for the primer check out the articles listed in suggested reading.
 Fish species found present in November 2020 in www.artsdatabanken.no/, https://www.artdatabanken.se/, www.naturbasen.dk were extracted and offical latin names were obtained through FishBase(link) which uses COL taxanomy https://www.catalogueoflife.org/.
 
-The first update (09.11.2021) contained 759 FASTA sequences for 379 Scandinavian fish species.
+The first update ScandiFish_12s_v1.0 (09.11.2021) contained 759 FASTA sequences for 379 Scandinavian fish species.
 
 ### Workflow of the database pipeline
 All sequences matching the taxon names in the list of taxon names are downloaded from GenBank database at NCBI.
