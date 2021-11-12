@@ -22,7 +22,7 @@ The sequences are then checked for quality, length, intraspecific sequence dupli
 ### Specs
 ScandiFish_12s_v1.0:
 
-744 sequences
+744 unique sequences
 
 380 species present
 
