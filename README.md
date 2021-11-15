@@ -32,4 +32,4 @@ ScandiFish_12s_v1.0:
 
 
 
-Citations: If you use ScandiFish, please cite (xxxxxx)
+Citations: If you use ScandiFish, please cite Stensrud et al. 2021, ScandiFish, a metabarcoding reference database for Scandinavian fish communities. Havforskermøtet, Bergen, 23. November 2021. 
