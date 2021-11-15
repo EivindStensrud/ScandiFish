@@ -2,6 +2,7 @@
 ### Contributors
 The database is a collaborative work between Stensrud E., Töpel M. and Eiler A. as a part of the master thesis of Stensrud.
 
+Citation: If you use ScandiFish, please cite Stensrud et al. 2021, ScandiFish, a metabarcoding reference database for Scandinavian fish communities. Havforskermøtet, Bergen, 23. November 2021. 
 ### 
 ScandiFish is a metabarcoding reference database for the Scandinavian fish community.
 The database is based on the MiFish-U primers, which amplify a hypervariable region of (~170bp) of the mitochondrial 12s rRNA region.
@@ -30,6 +31,3 @@ ScandiFish_12s_v1.0:
 
 55 different species shares ≥1 sequences with other species
 
-
-
-Citations: If you use ScandiFish, please cite Stensrud et al. 2021, ScandiFish, a metabarcoding reference database for Scandinavian fish communities. Havforskermøtet, Bergen, 23. November 2021. 
