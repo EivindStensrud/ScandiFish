@@ -1,0 +1,4 @@
+Involve a LCA-Lowest common ancestor analysis, to find what resolution is achiveable for low-resolution groups.
+Update FastTree alignment on iTOL with taxa boxes and hash sequences which do not have resolution to species level.
+Make a table showing distribution of the highest achievable resolution for the OTUs.
+Re-run the analysis to pick up more sequences for more species. 
