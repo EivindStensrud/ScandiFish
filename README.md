@@ -17,9 +17,10 @@ All sequences matching the taxon names in the list of taxon names are downloaded
 
 The build-up of the database is based on sequence similarity where the new sequences are BLASTed https://blast.ncbi.nlm.nih.gov/Blast.cgi against a reference database, this allows for sequences not annotated belonging to the 12s rRNA gene region to be analyzed.
 
-Further is the database based on a non-linear pipeline, which saves analysed accession numbers which prevent them from being analyzed multiple times, which allows for faster and less labour intensive updates in the future.
+Further the database is produced on a non-linear pipeline, which saves analysed accession numbers to prevent them from being analyzed multiple times. This allows for faster and less labour intensive manual updates in the future.
 
-The sequences are then checked for quality, length, intraspecific sequence duplicates are removed and sequence placement on a genetree based on FastTree before being approved in the database.
+The sequences are then checked for quality, length, intraspecific duplications, and identified sequences are removed.
+MAFFT aligned sequence are then placed on a genetree based on FastTree before being approved in the database.
 
 ### Specs
 ScandiFish_12s_v1.0:
@@ -34,12 +35,12 @@ ScandiFish_12s_v1.0:
 
 Marks:
 
-*The species found in the Scandinavian databases do not use a common classification of the taxonomy for the fish species, and contains some sub-species.
+*The species found in the Scandinavian databases do not use a common taxonomic classification for fish species, and contains some sub-species.
 The species are then controlled against Catalogue of Life(COL) through FishBase which is a standard for classification. 
 Then the species name obtained from Catalogue of Life is used to search for sequences in NCBI's Genbank which is using another classification than COL.
-We discovered that some species, especially Swedish Coregonus species found in the Scandinavian databases is not accepted in NCBI's classification, while accepted in COL.
-This results in a inflated numbers of non-found fish species. 
-The same goes with rare species which have been observed a few times, were registered in the Scandinavian databases but not in NCBI. 
-This is the case for several deepwater species as some Lycodes and Careproctus species.
+We discovered that some species, especially Swedish Coregonus species found in the Scandinavian databases are not accepted in NCBI's classification, while accepted in COL.
+This results in a inflated number of non-found fish species. 
+The same goes with rare species which have been observed a few times are often registered in the Scandinavian databases but not in NCBI. 
+This is the case for several deepwater species as Lycodes and Careproctus species.
 
 
