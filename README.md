@@ -33,9 +33,8 @@ ScandiFish_12s_v1.0:
 55 different species shares ≥1 sequences with other species
 
 Marks:
-*
 
-The species found in the Scandinavian databases do not use a common classification of the taxonomy for the fish species, and contains some sub-species.
+*The species found in the Scandinavian databases do not use a common classification of the taxonomy for the fish species, and contains some sub-species.
 The species are then controlled against Catalogue of Life(COL) through FishBase which is a standard for classification. 
 Then the species name obtained from Catalogue of Life is used to search for sequences in NCBI's Genbank which is using another classification than COL.
 We discovered that some species, especially Swedish Coregonus species found in the Scandinavian databases is not accepted in NCBI's classification, while accepted in COL.
