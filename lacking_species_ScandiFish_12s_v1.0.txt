@@ -91,7 +91,7 @@
 "Epinephelus goreensis"
 "Epinephelus itajara"
 "Serranus pulcher"
-"Serranus drewesi "
+"Serranus drewesi"
 "Serranus inexpectatus"
 "Centrodraco acanthopoma"
 "Pseudoscopelus astronesthidens"
