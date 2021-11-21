@@ -27,7 +27,7 @@ ScandiFish_12s_v1.0:
 
 744 unique sequences
 
-380 of 525 Scandinavian fish species is found in the database*
+380 of 525* Scandinavian fish species is found in the database*
 
 32 non-unique sequences
 
@@ -39,8 +39,10 @@ Marks:
 The species are then controlled against Catalogue of Life(COL) through FishBase which is a standard for classification. 
 Then the species name obtained from Catalogue of Life is used to search for sequences in NCBI's Genbank which is using another classification than COL.
 We discovered that some species, especially Swedish Coregonus species found in the Scandinavian databases are not accepted in NCBI's classification, while accepted in COL.
-This results in a inflated number of non-found fish species. 
+This results in a inflated number of non-found fish species, n=54.
 The same goes with rare species which have been observed a few times are often registered in the Scandinavian databases but not in NCBI. 
 This is the case for several deepwater species as Lycodes and Careproctus species.
+
+
 
 
