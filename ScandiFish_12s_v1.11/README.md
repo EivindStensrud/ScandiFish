@@ -3,7 +3,7 @@ ScandiFish_12s_v1.11:
 
 732 unique sequences
 
-379 of 525* Scandinavian fish species are found in the database*
+380 of 525* Scandinavian fish species are found in the database*
 
 30 non-unique sequences
 
