@@ -7,7 +7,7 @@ Citation: If you use ScandiFish, please cite Stensrud et al. 2021, ScandiFish, a
 ScandiFish is a metabarcoding reference database for the Scandinavian fish community.
 The database is based on the MiFish-U primers, which amplify a hypervariable region of (~170bp) of the mitochondrial 12s rRNA gene region.
 For more information for the primer check out the articles listed in suggested reading.
-Fish species found present in November 2020 in www.artsdatabanken.no/, https://www.artdatabanken.se/, www.naturbasen.dk were extracted and offical latin names were obtained through FishBase(https://www.fishbase.se/search.php) which uses COL taxanomy https://www.catalogueoflife.org/. This process resulted in 525 Scandinavian fish species.
+Fish species found present in November 2020 in www.artsdatabanken.no/, https://www.artdatabanken.se/, www.naturbasen.dk were extracted and offical latin names were obtained through FishBase (https://www.fishbase.se/search.php) which uses COL taxanomy https://www.catalogueoflife.org/. This process resulted in 525 Scandinavian fish species.
 The list of Scandinavian fish species can be found in the repository. 
 
 The first update, ScandiFish_12s_v1.0 (09.11.2021) contained 744 FASTA sequences for 380 Scandinavian fish species.
