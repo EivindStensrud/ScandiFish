@@ -49,7 +49,7 @@ This results in an inflated number of non-found fish species, n=54.
 The same goes with rare species which have been observed a few times and are often registered in the Scandinavian databases but not in NCBI. 
 This is the case for several deepwater species as *Lycodes* and *Careproctus* species.
 
-Due to NCBI taxonomic classification, *Dicentrarchus labrax*, European seabass, do not have any order ranks. Since the workflow is based on a seven rank system, the classification was manually altered to work with downstream analysis.
+Due to NCBI taxonomic classification, *Dicentrarchus labrax*, European seabass, do not have any order rank. Since the workflow is based on a seven rank system, the classification was manually altered to work with downstream analysis.
 
 From Eukaryota;Chordata;Actinopteri;Moronidae;Dicentrarchus;Dicentrarchus_labrax
 
