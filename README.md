@@ -50,10 +50,13 @@ The same goes with rare species which have been observed a few times and are oft
 This is the case for several deepwater species as *Lycodes* and *Careproctus* species.
 
 Due to NCclassificationation, Dicentrarchus labrax, European seabass, do not have any order ranks. Since the workflow is based on a seven rank system, the classification was manually altered to work with downstream analysis.
+
 From Eukaryota;Chordata;Actinopteri;Moronidae;Dicentrarchus;Dicentrarchus_labrax
+
 To Eukaryota;Chordata;Actinopteri;Moronidae;;Dicentrarchus;Dicentrarchus_labrax
 
 Resources:
+
 Beentjes KK, Speksnijder AGCL, Schilthuizen M, Hoogeveen M, Pastoor R, et al. (2019) Increased performance of DNA metabarcoding of macroinvertebrates by taxonomic sorting. PLOS ONE 14(12): e0226527. https://doi.org/10.1371/journal.pone.0226527
 
 Huson, D. H., Auch, A. F., Qi, J., & Schuster, S. C. (2007). MEGAN analysis of metagenomic data. Genome Research, 17(3), 377–386. http://doi.org/10.1101/gr.5969107
