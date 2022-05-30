@@ -1,0 +1,90 @@
+Family:
+
+gb|FJ215053.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Merlangius;Merlangius_merlangus	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|KP644355.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Arctogadus;Arctogadus_glacialis	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|LC069682.1|Eukaryota;Chordata;Actinopteri;Perciformes;Stichaeidae;Lumpenus;Lumpenus_fabricii	family	Stichaeidae	Eukaryota	Chordata	Actinopteri	Perciformes	Stichaeidae	no identification	no identification	lca
+gb|LC458379.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Leuciscidae;Leuciscus;Leuciscus_leuciscus	family	Leuciscidae	Eukaryota	Chordata	Actinopteri	Cypriniformes	Leuciscidae	no identification	no identification	lca
+gb|MZ621114.1|Eukaryota;Chordata;Actinopteri;Perciformes;Stichaeidae;Lumpenus;Lumpenus_fabricii	family	Stichaeidae	Eukaryota	Chordata	Actinopteri	Perciformes	Stichaeidae	no identification	no identification	lca
+gb|MT497787.1|Eukaryota;Chordata;Actinopteri;Perciformes;Triglidae;Chelidonichthys;Chelidonichthys_cuculus	family	Triglidae	Eukaryota	Chordata	Actinopteri	Perciformes	Triglidae	no identification	no identification	lca
+gb|MZ621078.1|Eukaryota;Chordata;Actinopteri;Perciformes;Stichaeidae;Lumpenus;Lumpenus_fabricii	family	Stichaeidae	Eukaryota	Chordata	Actinopteri	Perciformes	Stichaeidae	no identification	no identification	lca
+gb|KP644353.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Merlangius;Merlangius_merlangus	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|NC_012043.1|Eukaryota;Chordata;Actinopteri;Beryciformes;Cetomimidae;Eutaeniophorus;Eutaeniophorus_festivus	family	Cetomimidae	Eukaryota	Chordata	Actinopteri	Beryciformes	Cetomimidae	no identification	no identification	lca
+gb|AP010887.1|Eukaryota;Chordata;Actinopteri;Beryciformes;Cetomimidae;Ataxolepis;Ataxolepis_apus	family	Cetomimidae	Eukaryota	Chordata	Actinopteri	Beryciformes	Cetomimidae	no identification	no identification	lca
+gb|NC_027587.1|Eukaryota;Chordata;Actinopteri;Perciformes;Cottidae;Icelus;Icelus_spatula	family	Cottidae	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	no identification	no identification	lca
+gb|MT103905.1|Eukaryota;Chordata;Actinopteri;Perciformes;Cottidae;Artediellus;Artediellus_atlanticus	family	Cottidae	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	no identification	no identification	lca
+gb|NC_004530.1|Eukaryota;Chordata;Actinopteri;Scombriformes;Scombridae;Euthynnus;Euthynnus_alletteratus	family	Scombridae	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	no identification	no identification	lca
+gb|KM605252.1|Eukaryota;Chordata;Actinopteri;Scombriformes;Scombridae;Katsuwonus;Katsuwonus_pelamis	family	Scombridae	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	no identification	no identification	lca
+gb|AB103467.1|Eukaryota;Chordata;Actinopteri;Scombriformes;Scombridae;Auxis;Auxis_rochei	family	Scombridae	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	no identification	no identification	lca
+gb|MT410877.1|Eukaryota;Chordata;Actinopteri;Scombriformes;Scombridae;Sarda;Sarda_sarda	family	Scombridae	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	no identification	no identification	lca
+gb|MW818301.1|Eukaryota;Chordata;Actinopteri;Uranoscopiformes;Ammodytidae;Ammodytes;Ammodytes_tobianus	family	Ammodytidae	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	no identification	no identification	lca
+gb|MW818340.1|Eukaryota;Chordata;Actinopteri;Uranoscopiformes;Ammodytidae;Hyperoplus;Hyperoplus_immaculatus	family	Ammodytidae	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	no identification	no identification	lca
+gb|MW818234.1|Eukaryota;Chordata;Actinopteri;Uranoscopiformes;Ammodytidae;Ammodytes;Ammodytes_tobianus	family	Ammodytidae	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	no identification	no identification	lca
+gb|MW818268.1|Eukaryota;Chordata;Actinopteri;Uranoscopiformes;Ammodytidae;Hyperoplus;Hyperoplus_lanceolatus	family	Ammodytidae	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	no identification	no identification	lca
+gb|MW818279.1|Eukaryota;Chordata;Actinopteri;Uranoscopiformes;Ammodytidae;Ammodytes;Ammodytes_tobianus	family	Ammodytidae	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	no identification	no identification	lca
+gb|MW818246.1|Eukaryota;Chordata;Actinopteri;Uranoscopiformes;Ammodytidae;Ammodytes;Ammodytes_tobianus	family	Ammodytidae	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	no identification	no identification	lca
+gb|MT410950.1|Eukaryota;Chordata;Actinopteri;Uranoscopiformes;Ammodytidae;Gymnammodytes;Gymnammodytes_semisquamatus	family	Ammodytidae	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	no identification	no identification	lca
+gb|MK577429.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Leuciscidae;Vimba;Vimba_vimba	family	Leuciscidae	Eukaryota	Chordata	Actinopteri	Cypriniformes	Leuciscidae	no identification	no identification	lca
+gb|DN792628.1|Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus_hippoglossus	family	Pleuronectidae	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	no identification	no identification	lca
+gb|MN122886.1|Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;Limanda;Limanda_limanda	family	Pleuronectidae	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	no identification	no identification	lca
+gb|NC_009711.1|Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;Reinhardtius;Reinhardtius_hippoglossoides	family	Pleuronectidae	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	no identification	no identification	lca
+gb|AM749124.1|Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus_hippoglossus	family	Pleuronectidae	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	no identification	no identification	lca
+gb|MN122873.1|Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;Pleuronectes;Pleuronectes_platessa	family	Pleuronectidae	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	no identification	no identification	lca
+gb|MT103914.1|Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;Hippoglossoides;Hippoglossoides_platessoides	family	Pleuronectidae	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	no identification	no identification	lca
+gb|DV567081.1|Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;Platichthys;Platichthys_flesus	family	Pleuronectidae	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	no identification	no identification	lca
+gb|AM749123.1|Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Pleuronectidae;Hippoglossus;Hippoglossus_hippoglossus	family	Pleuronectidae	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	no identification	no identification	lca
+gb|EU877739.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Gadus;Gadus_morhua	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|LS999104.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Gadus;Gadus_morhua	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|MH035594.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Gadus;Gadus_chalcogrammus	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|LS999103.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Gadus;Gadus_morhua	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|MH035532.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Boreogadus;Boreogadus_saida	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|NC_036931.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Gadus;Gadus_macrocephalus	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|KT004433.1|Eukaryota;Chordata;Actinopteri;Perciformes;Stichaeidae;Leptoclinus;Leptoclinus_maculatus	family	Stichaeidae	Eukaryota	Chordata	Actinopteri	Perciformes	Stichaeidae	no identification	no identification	lca
+gb|MH035562.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Boreogadus;Boreogadus_saida	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|MT410893.1|Eukaryota;Chordata;Actinopteri;Perciformes;Stichaeidae;Lumpenus;Lumpenus_lampretaeformis	family	Stichaeidae	Eukaryota	Chordata	Actinopteri	Perciformes	Stichaeidae	no identification	no identification	lca
+gb|LC493920.1|Eukaryota;Chordata;Actinopteri;Perciformes;Stichaeidae;Lumpenus;Lumpenus_lampretaeformis	family	Stichaeidae	Eukaryota	Chordata	Actinopteri	Perciformes	Stichaeidae	no identification	no identification	lca
+gb|MW818241.1|Eukaryota;Chordata;Actinopteri;Perciformes;Triglidae;Chelidonichthys;Chelidonichthys_lucerna	family	Triglidae	Eukaryota	Chordata	Actinopteri	Perciformes	Triglidae	no identification	no identification	lca
+gb|MN122888.1|Eukaryota;Chordata;Actinopteri;Perciformes;Triglidae;Eutrigla;Eutrigla_gurnardus	family	Triglidae	Eukaryota	Chordata	Actinopteri	Perciformes	Triglidae	no identification	no identification	lca
+gb|MW818296.1|Eukaryota;Chordata;Actinopteri;Perciformes;Triglidae;Chelidonichthys;Chelidonichthys_cuculus	family	Triglidae	Eukaryota	Chordata	Actinopteri	Perciformes	Triglidae	no identification	no identification	lca
+gb|MK548578.1|Eukaryota;Chordata;Actinopteri;Scombriformes;Scombridae;Auxis;Auxis_rochei	family	Scombridae	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	no identification	no identification	lca
+gb|MH035604.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Gadus;Gadus_chalcogrammus	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|MH035581.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Arctogadus;Arctogadus_glacialis	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|MH035578.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Arctogadus;Arctogadus_glacialis	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|MH035576.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Arctogadus;Arctogadus_glacialis	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|JK775633.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Gadus;Gadus_morhua	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|AB182307.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Gadus;Gadus_chalcogrammus	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|MH035582.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Arctogadus;Arctogadus_glacialis	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|MH035601.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Gadus;Gadus_chalcogrammus	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|MH035580.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Arctogadus;Arctogadus_glacialis	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|DQ020496.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Merlangius;Merlangius_merlangus	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|AM489717.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Melanogrammus;Melanogrammus_aeglefinus	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|DQ020497.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Melanogrammus;Melanogrammus_aeglefinus	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|MN122861.1|Eukaryota;Chordata;Actinopteri;Gadiformes;Gadidae;Merlangius;Merlangius_merlangus	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+gb|MW818237.1|Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Sprattus;Sprattus_sprattus	family	Clupeidae	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	no identification	no identification	lca
+gb|MH194498.2|Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_harengus	family	Clupeidae	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	no identification	no identification	lca
+gb|AP009134.1|Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Clupea;Clupea_pallasii	family	Clupeidae	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	no identification	no identification	lca
+gb|MN122923.1|Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Sprattus;Sprattus_sprattus	family	Clupeidae	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	no identification	no identification	lca
+gb|NC_009593.1|Eukaryota;Chordata;Actinopteri;Clupeiformes;Clupeidae;Sprattus;Sprattus_sprattus	family	Clupeidae	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	no identification	no identification	lca
+gb|KY798483.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Carassius;Carassius_carassius	family	Cyprinidae	Eukaryota	Chordata	Actinopteri	Cypriniformes	Cyprinidae	no identification	no identification	lca
+gb|JQ911695.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Carassius;Carassius_carassius	family	Cyprinidae	Eukaryota	Chordata	Actinopteri	Cypriniformes	Cyprinidae	no identification	no identification	lca
+gb|AP011210.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Leuciscidae;Blicca;Blicca_bjoerkna	family	Leuciscidae	Eukaryota	Chordata	Actinopteri	Cypriniformes	Leuciscidae	no identification	no identification	lca
+gb|AF038468.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Leuciscidae;Blicca;Blicca_bjoerkna	family	Leuciscidae	Eukaryota	Chordata	Actinopteri	Cypriniformes	Leuciscidae	no identification	no identification	lca
+gb|KF913024.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Leuciscidae;Leuciscus;Leuciscus_idus	family	Leuciscidae	Eukaryota	Chordata	Actinopteri	Cypriniformes	Leuciscidae	no identification	no identification	lca
+gb|MW652798.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Leuciscidae;Chondrostoma;Chondrostoma_nasus	family	Leuciscidae	Eukaryota	Chordata	Actinopteri	Cypriniformes	Leuciscidae	no identification	no identification	lca
+gb|NC_005795.1|Eukaryota;Chordata;Actinopteri;Acipenseriformes;Acipenseridae;Acipenser;Acipenser_stellatus	family	Acipenseridae	Eukaryota	Chordata	Actinopteri	Acipenseriformes	Acipenseridae	no identification	no identification	lca
+gb|KF153104.1|Eukaryota;Chordata;Actinopteri;Acipenseriformes;Acipenseridae;Acipenser;Acipenser_ruthenus	family	Acipenseridae	Eukaryota	Chordata	Actinopteri	Acipenseriformes	Acipenseridae	no identification	no identification	lca
+gb|MK213068.2|Eukaryota;Chordata;Actinopteri;Acipenseriformes;Acipenseridae;Huso;Huso_huso	family	Acipenseridae	Eukaryota	Chordata	Actinopteri	Acipenseriformes	Acipenseridae	no identification	no identification	lca
+gb|MN122922.1|Eukaryota;Chordata;Actinopteri;Uranoscopiformes;Ammodytidae;Ammodytes;Ammodytes_marinus	family	Ammodytidae	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	no identification	no identification	lca
+
+order:
+gb|KC292935.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Cyprinus;Cyprinus_carpio	order	Cypriniformes	Eukaryota	Chordata	Actinopteri	Cypriniformes	no identification	no identification	no identification	lca
+gb|EX881087.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Cyprinus;Cyprinus_carpio	order	Cypriniformes	Eukaryota	Chordata	Actinopteri	Cypriniformes	no identification	no identification	no identification	lca
+gb|AP017363.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Cyprinus;Cyprinus_carpio	order	Cypriniformes	Eukaryota	Chordata	Actinopteri	Cypriniformes	no identification	no identification	no identification	lca
+gb|KM657132.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Carassius;Carassius_auratus	order	Cypriniformes	Eukaryota	Chordata	Actinopteri	Cypriniformes	no identification	no identification	no identification	lca
+gb|KJ135626.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Gobionidae;Pseudorasbora;Pseudorasbora_parva	order	Cypriniformes	Eukaryota	Chordata	Actinopteri	Cypriniformes	no identification	no identification	no identification	lca
+gb|AP009047.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Cyprinus;Cyprinus_carpio	order	Cypriniformes	Eukaryota	Chordata	Actinopteri	Cypriniformes	no identification	no identification	no identification	lca
+gb|KF856965.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Cyprinus;Cyprinus_carpio	order	Cypriniformes	Eukaryota	Chordata	Actinopteri	Cypriniformes	no identification	no identification	no identification	lca
+gb|EX883231.1|Eukaryota;Chordata;Actinopteri;Cypriniformes;Cyprinidae;Cyprinus;Cyprinus_carpio	order	Cypriniformes	Eukaryota	Chordata	Actinopteri	Cypriniformes	no identification	no identification	no identification	lca
+
+class:
+gb|AF447999.1|Eukaryota;Chordata;Chondrichthyes;Lamniformes;Alopiidae;Isurus;Isurus_oxyrinchus	class	Chondrichthyes	Eukaryota	Chordata	Chondrichthyes	no identification	no identification	no identification	no identification	lca
+gb|NC_022819.1|Eukaryota;Chordata;Chondrichthyes;Carcharhiniformes;Carcharhinidae;Prionace;Prionace_glauca	class	Chondrichthyes	Eukaryota	Chordata	Chondrichthyes	no identification	no identification	no identification	no identification	lca
