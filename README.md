@@ -29,8 +29,10 @@ The taxonomic sorting workflow the annotation script is based on is developed by
 
 
 ### Specs
-Gene tree: https://itol.embl.de/shared/eivisten
 ScandiFish 12s v1.2:
+
+Gene tree: https://itol.embl.de/shared/eivisten
+
 
 732 unique sequences
 
