@@ -25,7 +25,7 @@ A final curation with MegaBlast, on both the accession number and marker region 
 
 ### Streamlined taxonomic sorting
 To assure maximum utilisation of ScandiFish, a taxonomic sorting based annotation was integrated in a script developed for ScandiFish.
-The taxonomic sorting workflow the annotation script is based on is developed by Beentjes et al. 2019 and is partly based on Huson et al. 2007 MEGAN pipeline, which annotate sequences on a conservative matter, reducing the false positive rate.
+The taxonomic sorting workflow the annotation script is developed by Beentjes et al. 2019 and is partly based on Huson et al. 2007 MEGAN pipeline, which annotate sequences on a conservative matter, reducing the false positive rate.
 
 
 ### Specs
